@@ -171,7 +171,7 @@ public class Beat1 extends Activity {
 		if (resultCode == RESULT_OK) {
 			if (inData != null) {
 				String filePath = inData.getDataString();
-				filePath = filePath.substring(7);
+				filePath = getFilePath(filePath);//filePath.substring(7);
 
 				// System.out.println("path" + filePath); // logCat���� ���Ȯ��.
 				Log.i("MyTag2", "path" + filePath);
@@ -185,6 +185,13 @@ public class Beat1 extends Activity {
 		}
 		}
 	}
+
+    protected String getFilePath(String filePath)
+    {
+        String externalStorage = Environment.getExternalStorageDirectory().getPath();
+        int index = filePath.lastIndexOf(externalStorage);
+        return filePath.substring(index);
+    }
 
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);

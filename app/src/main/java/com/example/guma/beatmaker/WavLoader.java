@@ -72,12 +72,13 @@ public class WavLoader extends Activity {
 
 		}
 	};
+
 	
 	protected void onActivityResult(int requestCode, int resultCode,
 			Intent inData) {
 		super.onActivityResult(requestCode, resultCode, inData);
 		String filePath = inData.getDataString();
-		filePath = filePath.substring(7);
+		filePath = new Beat1().getFilePath(filePath);
 		
 		
 		switch (requestCode){
