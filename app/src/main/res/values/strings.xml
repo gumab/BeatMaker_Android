@@ -1,8 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">BeatMaker</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">BeatMaker2</string>
     <string name="action_settings">Settings</string>
+    
+    <string-array name="Patterns">
+        <item>Pattern0</item>
+        <item>Pattern1</item>
+        <item>Pattern2</item>
+        <item>Pattern3</item>
+        <item>Pattern4</item>
+        <item>Pattern5</item>
+        <item>Pattern6</item>
+        <item>Pattern7</item>
+        <item>Pattern8</item>
+        <item>Pattern9</item>
+    </string-array>
+    
+     <string-array name="Drums">
+        
+        <item>힙합1</item>
+        <item>힙합2</item>
+        <item>힙합3</item>
+        <item>째즈</item>
+        <item>클래식</item>
+        <item>땐스</item>
+        
+    </string-array>
+    <string name="song">Song</string>
+    <string name="loop">Loop</string>
+    <string name="inst1">Kick</string>
+    <string name="inst2">Snare</string>
+    <string name="inst3">HiHat</string>
+    <string name="inst4">Clap</string>
+    <string name="inst5">Inst5</string>
+    <string name="inst6">Inst6</string>
+    <string name="inst7">Inst7</string>
+    <string name="inst8">Inst8</string>
+    <string name="play">▶</string>
+    <string name="stop">■</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+    <string name="bpm">BPM</string>
 
 </resources>

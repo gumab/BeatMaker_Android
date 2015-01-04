@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="action_settings">설정</string>
+    <string name="app_name">비트메이커v2</string>
+    <string name="bpm">BPM</string>
+    <string name="load">불러오기</string>
+    <string name="loop">반복</string>
+    <string name="save">저장</string>
+    <string name="song">전체</string>
+
+</resources>
