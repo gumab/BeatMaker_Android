@@ -55,8 +55,8 @@
       <file leaf-file-name="Beat1.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/guma/beatmaker/Beat1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37560192" vertical-offset="2271" max-vertical-offset="7230">
-              <caret line="178" column="29" selection-start-line="178" selection-start-column="29" selection-end-line="178" selection-end-column="29" />
+            <state vertical-scroll-proportion="2.6484752" vertical-offset="810" max-vertical-offset="7230">
+              <caret line="175" column="16" selection-start-line="175" selection-start-column="16" selection-end-line="175" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#3908#3909#0" expanded="true" />
@@ -712,8 +712,8 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/guma/beatmaker/SplashActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_beat1.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/guma/beatmaker/Beat1.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/guma/beatmaker/WavLoader.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/guma/beatmaker/Beat1.java" />
       </list>
     </option>
   </component>
@@ -1258,8 +1258,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/guma/beatmaker/Beat1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37560192" vertical-offset="2271" max-vertical-offset="7230">
-          <caret line="178" column="29" selection-start-line="178" selection-start-column="29" selection-end-line="178" selection-end-column="29" />
+        <state vertical-scroll-proportion="2.6484752" vertical-offset="810" max-vertical-offset="7230">
+          <caret line="175" column="16" selection-start-line="175" selection-start-column="16" selection-end-line="175" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#3908#3909#0" expanded="true" />

@@ -171,7 +171,7 @@ public class Beat1 extends Activity {
 		if (resultCode == RESULT_OK) {
 			if (inData != null) {
 				String filePath = inData.getDataString();
-				filePath = getFilePath(filePath);//filePath.substring(7);
+				filePath = getFilePath(filePath);
 
 				// System.out.println("path" + filePath); // logCat���� ���Ȯ��.
 				Log.i("MyTag2", "path" + filePath);
